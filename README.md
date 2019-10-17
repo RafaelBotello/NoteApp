@@ -1,7 +1,3 @@
----
-title: "codeacademy"
----
-# Road to Hire 
 ## Note Taking App
 
 ### Usage
